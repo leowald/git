@@ -51,7 +51,7 @@ function App() {
   }
   return (
     <main>
-      <h2>New H2</h2>
+      <h2>New H3</h2>
       <Player
         score={score[0]}
         current={player == 1 ? currentScore.current : 0}
